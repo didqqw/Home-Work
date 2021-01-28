@@ -2,7 +2,7 @@ import socket
 import time
 import threading
 
-#testtestetst
+
 key = 8194
 
 shutdown = False
